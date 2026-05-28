@@ -17,11 +17,9 @@
 
 ---
 
-## Why a separate repository?
+## What is this?
 
-GitBunki itself is a closed-source app, so its source code does not live on
-GitHub. This repository exists so you can still **track issues**, **request
-features**, and **follow what's coming next** in the open.
+This is the place to **report bugs** and **request features** for GitBunki.
 
 ## How to file a good report
 
