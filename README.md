@@ -36,11 +36,6 @@ Before opening a new issue, please:
    - What you expected vs. what happened
    - Screenshots or a short screen recording if the issue is visual
 
-## Roadmap & changelog
-
-- Roadmap and shipped features: [gitbunki.com](https://gitbunki.com)
-- Per-release changelog: published with each [GitHub release](../../releases)
-
 ## Author
 
 Built by **Renato Nitta** ·
