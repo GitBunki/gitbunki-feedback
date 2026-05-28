@@ -17,10 +17,6 @@
 
 ---
 
-## What is this?
-
-This is the place to **report bugs** and **request features** for GitBunki.
-
 ## How to file a good report
 
 Before opening a new issue, please:
