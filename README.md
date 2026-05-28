@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://gitbunki.com">Website</a> ·
-  <a href="../../issues/new?labels=bug">Report a bug</a> ·
-  <a href="../../issues/new?labels=enhancement">Request a feature</a>
+  <a href="../../issues/new?template=bug_report.md">Report a bug</a> ·
+  <a href="../../issues/new?template=feature_request.md">Suggest a new feature</a>
 </p>
 
 ---
