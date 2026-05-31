@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://gitbunki.com">Website</a> ·
-  <a href="../../issues/new?template=bug_report.md">Report a bug</a> ·
-  <a href="../../issues/new?template=feature_request.md">Suggest a new feature</a>
+  <a href="../../issues/new?template=bug_report.md&labels=bug">Report a bug</a> ·
+  <a href="../../issues/new?template=feature_request.md&labels=enhancement">Suggest a new feature</a>
 </p>
 
 ---
@@ -29,6 +29,17 @@ Before opening a new issue, please:
    - Steps to reproduce
    - What you expected vs. what happened
    - Screenshots or a short screen recording if the issue is visual
+
+## Quick links
+
+- 🐛 [Report a bug](../../issues/new?template=bug_report.md&labels=bug) — something broken or behaving unexpectedly.
+- ✨ [Suggest a new feature](../../issues/new?template=feature_request.md&labels=enhancement) — an idea or improvement you'd like to see.
+
+## Join the discussion
+
+Have a question, idea, or just want to share how you use GitBunki? Head over to the
+[Discussions](https://github.com/GitBunki/gitbunki-feedback/discussions) to chat with the
+community and help shape the future of GitBunki.
 
 ## Author
 
